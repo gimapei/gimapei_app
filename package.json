@@ -1,0 +1,22 @@
+{
+  "name": "gimapei_app",
+  "version": "1.0.0",
+  "description": "study repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"this is test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gimapei/gimapei_app.git"
+  },
+  "keywords": [
+    "study"
+  ],
+  "author": "GimaPei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gimapei/gimapei_app/issues"
+  },
+  "homepage": "https://github.com/gimapei/gimapei_app#readme"
+}
